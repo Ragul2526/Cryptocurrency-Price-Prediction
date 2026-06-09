@@ -14,4 +14,4 @@ Bitcoin (BTC), Ethereum (ETH), Solana (SOL), XRP
 ## How to run
 Click the button below to open directly in Google Colab — no installation needed.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ragul2526/Cryptocurrency-Price-Prediction/new/main/crypto_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ragul2526/Cryptocurrency-Price-Prediction/blob/main/crypto_prediction.ipynb)
