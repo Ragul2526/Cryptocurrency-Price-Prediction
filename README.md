@@ -1,9 +1,11 @@
 # Crypto Price Prediction
 
-A machine learning project that fetches live cryptocurrency prices from the CoinGecko API and forecasts future prices using statistical and deep learning models.
+A machine learning project that fetches live cryptocurrency prices from the Yahoo finance and forecasts future prices using statistical and deep learning models.
 
 ## Coins covered
 Bitcoin (BTC), Ethereum (ETH), Solana (SOL), XRP,LiteCoin (LTC)
+## Data source 
+Yahoo Finance via `yfinance` — no API key required
 
 ## Models used
 - Simple Exponential Smoothing (SES)
